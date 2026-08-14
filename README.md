@@ -27,7 +27,7 @@
 
 ### Samples
 
-* [Fabric samples](https://github.com/hyperledger/fabric-samples) ⭐ 3,016 | 🐛 73 | 🌐 Go | 📅 2026-07-31 - Official maintained samples created by the Hyperledger team and contributors.
+* [Fabric samples](https://github.com/hyperledger/fabric-samples) ⭐ 3,017 | 🐛 73 | 🌐 Go | 📅 2026-07-31 - Official maintained samples created by the Hyperledger team and contributors.
 * [Marbles](https://github.com/IBM-Blockchain/marbles) ⭐ 1,024 | 🐛 23 | 🌐 JavaScript | 📅 2019-03-28 - Marbles sample created by IBM visually demonstrating all the possibilities.
 * [Hyperledger composer samples](https://github.com/hyperledger/composer-sample-applications) ⚠️ Archived - Official samples for Hyperledger composer.
 * [Kuma token](https://github.com/Kunstmaan/hyperleder-fabric-kuma-token-example/) ⭐ 73 | 🐛 5 | 🌐 JavaScript | 📅 2019-04-29 - Example token implementation.
@@ -106,7 +106,7 @@
 
 ### Tutorials
 
-* [Hyperledger Fabric SDK Go: How to build your first app?](https://github.com/chainHero/heroes-service) ⭐ 274 | 🐛 20 | 🌐 Go | 📅 2021-12-17 - Chainhero tutorial on how to build applications on Hyperledger Fabric v1.0.5.
+* [Hyperledger Fabric SDK Go: How to build your first app?](https://github.com/chainHero/heroes-service) ⭐ 273 | 🐛 20 | 🌐 Go | 📅 2021-12-17 - Chainhero tutorial on how to build applications on Hyperledger Fabric v1.0.5.
 * [Hyperledger Fabric The Hard Way](https://github.com/zufardhiyaulhaq/hyperledger-fabric-the-hard-way) ⭐ 21 | 🐛 3 | 🌐 Go | 📅 2023-06-02 - Bootstrap Hyperledger Fabric the hard way without script following Production Network approach.
 * [Hyperledger Development within 21 days](https://medium.com/@grsind19/hyperledger-development-with-in-21-days-day-1-ed3c5df88113)
 * [Hyperledger Fabric dev env setup Kubernetes](https://medium.com/kokster/set-up-a-hyperledger-fabric-development-environment-on-kubernetes-6428c63e018b)
@@ -195,4 +195,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
