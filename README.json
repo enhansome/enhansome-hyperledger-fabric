@@ -24,7 +24,7 @@
             "last_commit": "2026-07-31T10:46:26Z",
             "owner": "hyperledger",
             "repo": "fabric-samples",
-            "stars": 3017
+            "stars": 3016
           }
         },
         {
@@ -355,7 +355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T06:46:12.370Z",
+    "last_updated": "2026-08-15T05:44:18.413Z",
     "original_repository": "wearetheledger/awesome-hyperledger-fabric",
     "original_repository_sha": "d5e7d6b3ed376556a0bfb8418baffeee0177eea1",
     "enhanced_repository": "enhansome/enhansome-hyperledger-fabric",
