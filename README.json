@@ -1,362 +1,361 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Fabric samples",
+              "description": "Official maintained samples created by the Hyperledger team and contributors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94831761,
+                "language": "Go",
+                "last_commit": "2026-07-31T10:46:26Z",
+                "owner": "hyperledger",
+                "repo": "fabric-samples",
+                "stars": 3016
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Marbles",
+              "description": "Marbles sample created by IBM visually demonstrating all the possibilities.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51540625,
+                "language": "JavaScript",
+                "last_commit": "2019-03-28T03:30:12Z",
+                "owner": "IBM-Blockchain-Archive",
+                "repo": "marbles",
+                "stars": 1025
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hyperledger composer samples",
+              "description": "Official samples for Hyperledger composer.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 80412304,
+                "language": "JavaScript",
+                "last_commit": "2019-08-30T07:40:27Z",
+                "owner": "hyperledger-archives",
+                "repo": "composer-sample-applications",
+                "stars": 104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kuma token",
+              "description": "Example token implementation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121531278,
+                "language": "JavaScript",
+                "last_commit": "2019-04-29T19:41:35Z",
+                "owner": "Kunstmaan",
+                "repo": "hyperledger-fabric-kuma-token-example",
+                "stars": 73
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Land Ownership Tracking",
+              "description": "Sample Hyperledger Composer application that allows government agencies to track ownership and transactions.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 142599356,
+                "language": "JavaScript",
+                "last_commit": "2018-11-19T22:53:18Z",
+                "owner": "ronaldl29",
+                "repo": "hyperledger-land-tracking",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Samples"
+        }
+      ],
       "title": "Apps"
     },
     {
-      "description": "Supply chain - Supply chain PoC App with four organizations exposing a Rest API created in Hyperledger Fabric.",
-      "items": [],
-      "title": "Open source"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Fabric samples",
-          "description": "Official maintained samples created by the Hyperledger team and contributors.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-31T10:46:26Z",
-            "owner": "hyperledger",
-            "repo": "fabric-samples",
-            "stars": 3016
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Marbles",
-          "description": "Marbles sample created by IBM visually demonstrating all the possibilities.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-03-28T03:30:12Z",
-            "owner": "IBM-Blockchain-Archive",
-            "repo": "marbles",
-            "stars": 1025
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hyperledger composer samples",
-          "description": "Official samples for Hyperledger composer.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2019-08-30T07:40:27Z",
-            "owner": "hyperledger-archives",
-            "repo": "composer-sample-applications",
-            "stars": 104
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kuma token",
-          "description": "Example token implementation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-04-29T19:41:35Z",
-            "owner": "Kunstmaan",
-            "repo": "hyperledger-fabric-kuma-token-example",
-            "stars": 73
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Land Ownership Tracking",
-          "description": "Sample Hyperledger Composer application that allows government agencies to track ownership and transactions.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2018-11-19T22:53:18Z",
-            "owner": "ronaldl29",
-            "repo": "hyperledger-land-tracking",
-            "stars": 14
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Fabric starter",
+              "description": "Starter Application and Deployment Scripts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101753860,
+                "language": "Shell",
+                "last_commit": "2022-12-21T10:37:54Z",
+                "owner": "olegabu",
+                "repo": "fabric-starter",
+                "stars": 237
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hyperledger Fabric network boilerplate",
+              "description": "Network boilerplate for easily setting up a new network.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123575599,
+                "language": "Shell",
+                "last_commit": "2022-12-03T03:34:29Z",
+                "owner": "wearetheledger",
+                "repo": "fabric-network-boilerplate",
+                "stars": 67
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Network"
         }
       ],
-      "title": "Samples"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Boilerplates"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Fabric starter",
-          "description": "Starter Application and Deployment Scripts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2022-12-21T10:37:54Z",
-            "owner": "olegabu",
-            "repo": "fabric-starter",
-            "stars": 237
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "fabric-node-chaincode-utils",
+              "description": "A Nodejs module that helps you build your Hyperledger Fabric nodejs chaincode faster and easier.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 124232677,
+                "language": "TypeScript",
+                "last_commit": "2020-01-30T10:57:32Z",
+                "owner": "wearetheledger",
+                "repo": "fabric-node-chaincode-utils",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hlf-sdk-go",
+              "description": "A third-party Golang Hyperledger Fabric SDK.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139586004,
+                "language": "Go",
+                "last_commit": "2025-11-13T06:50:35Z",
+                "owner": "s7techlab",
+                "repo": "hlf-sdk-go",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hyperledger-fabric-client-utils",
+              "description": "Set of utility functions which can be used to interact with chaincode.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119555914,
+                "language": "JavaScript",
+                "last_commit": "2019-01-23T15:14:42Z",
+                "owner": "Kunstmaan",
+                "repo": "hyperledger-fabric-client-utils",
+                "stars": 18
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Client"
         },
         {
-          "node_type": "item",
-          "title": "Hyperledger Fabric network boilerplate",
-          "description": "Network boilerplate for easily setting up a new network.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2022-12-03T03:34:29Z",
-            "owner": "wearetheledger",
-            "repo": "fabric-network-boilerplate",
-            "stars": 67
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CCKit",
+              "description": "Library for creating and testing golang chaincode, includes extended Mockstub implementation.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 129696401,
+                "language": "Go",
+                "last_commit": "2022-12-22T08:26:55Z",
+                "owner": "s7techlab",
+                "repo": "cckit",
+                "stars": 189
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fabric-mock-stub",
+              "description": "Mock implementation of the stub for testing Nodejs chaincode.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 124524446,
+                "language": "TypeScript",
+                "last_commit": "2020-11-25T00:30:49Z",
+                "owner": "wearetheledger",
+                "repo": "fabric-mock-stub",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hyperledger-fabric-chaincode-dev-setup",
+              "description": "Setup which makes it easy to develop Nodejs chaincode.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110345026,
+                "language": "JavaScript",
+                "last_commit": "2019-05-21T15:26:19Z",
+                "owner": "Kunstmaan",
+                "repo": "hyperledger-fabric-chaincode-dev-setup",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hyperledger-fabric-node-chaincode-utils",
+              "description": "Utility functions for Nodejs chaincode on Hyperledger Fabric blockchain.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120633516,
+                "language": "JavaScript",
+                "last_commit": "2018-11-26T09:39:55Z",
+                "owner": "Kunstmaan",
+                "repo": "hyperledger-fabric-node-chaincode-utils",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fabric-shim-types",
+              "description": "Typescript types for the chaincode package.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 124244125,
+                "language": "TypeScript",
+                "last_commit": "2018-10-11T15:31:56Z",
+                "owner": "wearetheledger",
+                "repo": "fabric-shim-types",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fabric-shim-crypto-types",
+              "description": "Typescript types for the package.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132717953,
+                "language": null,
+                "last_commit": "2020-01-14T13:48:24Z",
+                "owner": "wearetheledger",
+                "repo": "fabric-shim-crypto-types",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Chaincode"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "tineola",
+              "description": "Command line interface and packaged chaincode built for offensive security testing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140746749,
+                "language": "JavaScript",
+                "last_commit": "2022-12-07T22:42:38Z",
+                "owner": "tineola",
+                "repo": "tineola",
+                "stars": 50
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other"
         }
       ],
-      "title": "Network"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "fabric-node-chaincode-utils",
-          "description": "A Nodejs module that helps you build your Hyperledger Fabric nodejs chaincode faster and easier.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2020-01-30T10:57:32Z",
-            "owner": "wearetheledger",
-            "repo": "fabric-node-chaincode-utils",
-            "stars": 74
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hlf-sdk-go",
-          "description": "A third-party Golang Hyperledger Fabric SDK.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-11-13T06:50:35Z",
-            "owner": "s7techlab",
-            "repo": "hlf-sdk-go",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hyperledger-fabric-client-utils",
-          "description": "Set of utility functions which can be used to interact with chaincode.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-01-23T15:14:42Z",
-            "owner": "Kunstmaan",
-            "repo": "hyperledger-fabric-client-utils",
-            "stars": 18
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hyperledger Fabric SDK Go: How to build your first app?",
+              "description": "Chainhero tutorial on how to build applications on Hyperledger Fabric v1.0.5.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96316970,
+                "language": "Go",
+                "last_commit": "2021-12-17T09:51:59Z",
+                "owner": "chainHero",
+                "repo": "heroes-service",
+                "stars": 273
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hyperledger Fabric The Hard Way",
+              "description": "Bootstrap Hyperledger Fabric the hard way without script following Production Network approach.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 468280108,
+                "language": "Go",
+                "last_commit": "2023-06-02T01:44:16Z",
+                "owner": "zufardhiyaulhaq",
+                "repo": "hyperledger-fabric-the-hard-way",
+                "stars": 21
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tutorials"
         }
       ],
-      "title": "Client"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "CCKit",
-          "description": "Library for creating and testing golang chaincode, includes extended Mockstub implementation.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2022-12-22T08:26:55Z",
-            "owner": "s7techlab",
-            "repo": "cckit",
-            "stars": 189
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fabric-mock-stub",
-          "description": "Mock implementation of the stub for testing Nodejs chaincode.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2020-11-25T00:30:49Z",
-            "owner": "wearetheledger",
-            "repo": "fabric-mock-stub",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hyperledger-fabric-chaincode-dev-setup",
-          "description": "Setup which makes it easy to develop Nodejs chaincode.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-05-21T15:26:19Z",
-            "owner": "Kunstmaan",
-            "repo": "hyperledger-fabric-chaincode-dev-setup",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hyperledger-fabric-node-chaincode-utils",
-          "description": "Utility functions for Nodejs chaincode on Hyperledger Fabric blockchain.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-11-26T09:39:55Z",
-            "owner": "Kunstmaan",
-            "repo": "hyperledger-fabric-node-chaincode-utils",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fabric-shim-types",
-          "description": "Typescript types for the chaincode package.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2018-10-11T15:31:56Z",
-            "owner": "wearetheledger",
-            "repo": "fabric-shim-types",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fabric-shim-crypto-types",
-          "description": "Typescript types for the package.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-01-14T13:48:24Z",
-            "owner": "wearetheledger",
-            "repo": "fabric-shim-crypto-types",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Chaincode"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "tineola",
-          "description": "Command line interface and packaged chaincode built for offensive security testing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-07T22:42:38Z",
-            "owner": "tineola",
-            "repo": "tineola",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "setup-hlf GitHub Action",
-          "description": "GitHub Action to set up hyperledger fabric in workflows.",
-          "children": []
-        }
-      ],
-      "title": "Other"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Books"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Documentation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Hyperledger Fabric SDK Go: How to build your first app?",
-          "description": "Chainhero tutorial on how to build applications on Hyperledger Fabric v1.0.5.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2021-12-17T09:51:59Z",
-            "owner": "chainHero",
-            "repo": "heroes-service",
-            "stars": 273
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hyperledger Fabric The Hard Way",
-          "description": "Bootstrap Hyperledger Fabric the hard way without script following Production Network approach.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-06-02T01:44:16Z",
-            "owner": "zufardhiyaulhaq",
-            "repo": "hyperledger-fabric-the-hard-way",
-            "stars": 21
-          }
-        }
-      ],
-      "title": "Tutorials"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Articles"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first. If you found this resource helpful, give it a 🌟 otherwise contribute to it and give it a ⭐️.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "To the extent possible under law, TheLedger has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:49:06.794Z",
+    "last_updated": "2026-08-19T12:32:53.149Z",
     "original_repository": "wearetheledger/awesome-hyperledger-fabric",
+    "original_repository_id": 124280712,
     "original_repository_sha": "d5e7d6b3ed376556a0bfb8418baffeee0177eea1",
     "enhanced_repository": "enhansome/enhansome-hyperledger-fabric",
     "enhanced_repository_description": null,
