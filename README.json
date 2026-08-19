@@ -38,7 +38,7 @@
             "last_commit": "2019-03-28T03:30:12Z",
             "owner": "IBM-Blockchain-Archive",
             "repo": "marbles",
-            "stars": 1024
+            "stars": 1025
           }
         },
         {
@@ -355,7 +355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T05:48:02.173Z",
+    "last_updated": "2026-08-19T05:49:06.794Z",
     "original_repository": "wearetheledger/awesome-hyperledger-fabric",
     "original_repository_sha": "d5e7d6b3ed376556a0bfb8418baffeee0177eea1",
     "enhanced_repository": "enhansome/enhansome-hyperledger-fabric",
