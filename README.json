@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Supply chain",
+              "description": "Supply chain PoC App with four organizations exposing a Rest API created in Hyperledger Fabric.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 222755756,
+                "language": "JavaScript",
+                "last_commit": "2022-12-11T17:55:08Z",
+                "owner": "ialberquilla",
+                "repo": "hlf1.4-supply-chain",
+                "stars": 46
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Open source"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Fabric samples",
               "description": "Official maintained samples created by the Hyperledger team and contributors.",
               "children": [],
@@ -91,6 +113,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Backend typescript boilerplate",
+              "description": "Client boilerplate for interacting with the Fabric network using a REST API (Typescript, Nestjs, swagger, pusher).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118478659,
+                "language": "TypeScript",
+                "last_commit": "2023-01-23T20:38:16Z",
+                "owner": "wearetheledger",
+                "repo": "hyperledger-typescript-boilerplate",
+                "stars": 114
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Client"
+        },
         {
           "children": [
             {
@@ -185,6 +229,28 @@
           "description": null,
           "node_type": "group",
           "title": "Client"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "hyperledger-fabric-network-setup",
+              "description": "Helper functions for generating configurations for more advanced network setup.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 116256160,
+                "language": "Python",
+                "last_commit": "2018-06-19T15:52:48Z",
+                "owner": "Kunstmaan",
+                "repo": "hyperledger-fabric-network-setup",
+                "stars": 31
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Network"
         },
         {
           "children": [
@@ -353,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:56:25.952Z",
+    "last_updated": "2026-08-24T14:28:08.211Z",
     "original_repository": "wearetheledger/awesome-hyperledger-fabric",
     "original_repository_id": 124280712,
     "original_repository_sha": "d5e7d6b3ed376556a0bfb8418baffeee0177eea1",
