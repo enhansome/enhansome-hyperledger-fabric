@@ -419,9 +419,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:52:17.321Z",
-    "original_repository": "wearetheledger/awesome-hyperledger-fabric",
-    "original_repository_id": 124280712,
+    "last_updated": "2026-08-27T11:46:49.568Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 124280712,
+      "language": null,
+      "last_commit": "2023-02-09T13:41:46Z",
+      "owner": "wearetheledger",
+      "repo": "awesome-hyperledger-fabric",
+      "stars": 487
+    },
     "original_repository_sha": "d5e7d6b3ed376556a0bfb8418baffeee0177eea1",
     "enhanced_repository": "enhansome/enhansome-hyperledger-fabric",
     "enhanced_repository_description": null,
