@@ -18,7 +18,8 @@
                 "owner": "ialberquilla",
                 "repo": "hlf1.4-supply-chain",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T17:28:20.846Z"
             }
           ],
           "description": null,
@@ -36,11 +37,12 @@
                 "archived": false,
                 "id": 94831761,
                 "language": "Go",
-                "last_commit": "2026-08-24T21:40:58Z",
+                "last_commit": "2026-08-28T03:43:41Z",
                 "owner": "hyperledger",
                 "repo": "fabric-samples",
-                "stars": 3017
-              }
+                "stars": 3016
+              },
+              "first_seen": "2026-08-28T17:28:20.846Z"
             },
             {
               "node_type": "item",
@@ -55,7 +57,8 @@
                 "owner": "IBM-Blockchain-Archive",
                 "repo": "marbles",
                 "stars": 1025
-              }
+              },
+              "first_seen": "2026-08-28T17:28:20.846Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "hyperledger-archives",
                 "repo": "composer-sample-applications",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-28T17:28:20.846Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "Kunstmaan",
                 "repo": "hyperledger-fabric-kuma-token-example",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T17:28:20.846Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "ronaldl29",
                 "repo": "hyperledger-land-tracking",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T17:28:20.846Z"
             }
           ],
           "description": null,
@@ -128,7 +134,8 @@
                 "owner": "wearetheledger",
                 "repo": "hyperledger-typescript-boilerplate",
                 "stars": 114
-              }
+              },
+              "first_seen": "2026-08-28T17:28:20.846Z"
             }
           ],
           "description": null,
@@ -150,7 +157,8 @@
                 "owner": "olegabu",
                 "repo": "fabric-starter",
                 "stars": 237
-              }
+              },
+              "first_seen": "2026-08-28T17:28:20.846Z"
             },
             {
               "node_type": "item",
@@ -165,7 +173,8 @@
                 "owner": "wearetheledger",
                 "repo": "fabric-network-boilerplate",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T17:28:20.846Z"
             }
           ],
           "description": null,
@@ -193,7 +202,8 @@
                 "owner": "wearetheledger",
                 "repo": "fabric-node-chaincode-utils",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T17:28:20.846Z"
             },
             {
               "node_type": "item",
@@ -208,7 +218,8 @@
                 "owner": "s7techlab",
                 "repo": "hlf-sdk-go",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T17:28:20.846Z"
             },
             {
               "node_type": "item",
@@ -223,7 +234,8 @@
                 "owner": "Kunstmaan",
                 "repo": "hyperledger-fabric-client-utils",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T17:28:20.846Z"
             }
           ],
           "description": null,
@@ -245,7 +257,8 @@
                 "owner": "Kunstmaan",
                 "repo": "hyperledger-fabric-network-setup",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T17:28:20.846Z"
             }
           ],
           "description": null,
@@ -267,7 +280,8 @@
                 "owner": "s7techlab",
                 "repo": "cckit",
                 "stars": 189
-              }
+              },
+              "first_seen": "2026-08-28T17:28:20.846Z"
             },
             {
               "node_type": "item",
@@ -282,7 +296,8 @@
                 "owner": "wearetheledger",
                 "repo": "fabric-mock-stub",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T17:28:20.846Z"
             },
             {
               "node_type": "item",
@@ -297,7 +312,8 @@
                 "owner": "Kunstmaan",
                 "repo": "hyperledger-fabric-chaincode-dev-setup",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T17:28:20.846Z"
             },
             {
               "node_type": "item",
@@ -312,7 +328,8 @@
                 "owner": "Kunstmaan",
                 "repo": "hyperledger-fabric-node-chaincode-utils",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T17:28:20.846Z"
             },
             {
               "node_type": "item",
@@ -327,7 +344,8 @@
                 "owner": "wearetheledger",
                 "repo": "fabric-shim-types",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T17:28:20.846Z"
             },
             {
               "node_type": "item",
@@ -342,7 +360,8 @@
                 "owner": "wearetheledger",
                 "repo": "fabric-shim-crypto-types",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T17:28:20.846Z"
             }
           ],
           "description": null,
@@ -364,7 +383,8 @@
                 "owner": "tineola",
                 "repo": "tineola",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T17:28:20.846Z"
             }
           ],
           "description": null,
@@ -392,7 +412,8 @@
                 "owner": "chainHero",
                 "repo": "heroes-service",
                 "stars": 273
-              }
+              },
+              "first_seen": "2026-08-28T17:28:20.846Z"
             },
             {
               "node_type": "item",
@@ -407,7 +428,8 @@
                 "owner": "zufardhiyaulhaq",
                 "repo": "hyperledger-fabric-the-hard-way",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T17:28:20.846Z"
             }
           ],
           "description": null,
@@ -419,7 +441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:33:18.724Z",
+    "last_updated": "2026-08-28T17:28:20.846Z",
     "original_repository_info": {
       "archived": false,
       "id": 124280712,
