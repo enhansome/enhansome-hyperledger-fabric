@@ -12,12 +12,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Supply chain proof of concept in Hyperledger Fabric. Network with four companies and a specific chaincode exposed as rest API",
+                "homepage": null,
                 "id": 222755756,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-12-11T17:55:08Z",
+                "open_issues": 14,
                 "owner": "ialberquilla",
                 "repo": "hlf1.4-supply-chain",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "api-rest",
+                  "blockchain",
+                  "dlt",
+                  "expressjs",
+                  "hyperledger-fabric",
+                  "nodejs",
+                  "supply-chain"
+                ]
               },
               "first_seen": "2026-08-28T17:28:20.846Z"
             }
@@ -35,12 +48,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Samples for Hyperledger Fabric",
+                "homepage": "https://lf-hyperledger.atlassian.net/wiki/spaces/fabric",
                 "id": 94831761,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T03:43:41Z",
+                "open_issues": 77,
                 "owner": "hyperledger",
                 "repo": "fabric-samples",
-                "stars": 3016
+                "stars": 3016,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T17:28:20.846Z"
             },
@@ -51,12 +71,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WARNING: This repository is no longer maintained ⚠️ This repository will not be updated. The repository will be kept available in read-only mode.",
+                "homepage": null,
                 "id": 51540625,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2019-03-28T03:30:12Z",
+                "open_issues": 23,
                 "owner": "IBM-Blockchain-Archive",
                 "repo": "marbles",
-                "stars": 1025
+                "stars": 1025,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:28:20.846Z"
             },
@@ -67,12 +92,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":warning: :warning: :warning: Hyperledger Composer has been deprecated :warning: :warning: :warning: ",
+                "homepage": "https://wiki.hyperledger.org/display/composer",
                 "id": 80412304,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2019-08-30T07:40:27Z",
+                "open_issues": 16,
                 "owner": "hyperledger-archives",
                 "repo": "composer-sample-applications",
-                "stars": 104
+                "stars": 104,
+                "topics": [
+                  "blockchain",
+                  "composer",
+                  "distributed-ledger",
+                  "hyperledger",
+                  "samples"
+                ]
               },
               "first_seen": "2026-08-28T17:28:20.846Z"
             },
@@ -83,12 +119,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple token created on the Hyperledger Fabric platform",
+                "homepage": "https://labs.kunstmaan.be/",
                 "id": 121531278,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-04-29T19:41:35Z",
+                "open_issues": 5,
                 "owner": "Kunstmaan",
                 "repo": "hyperledger-fabric-kuma-token-example",
-                "stars": 73
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:28:20.846Z"
             },
@@ -99,12 +140,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A fictional land ownership transfer proof-of-concept built on Hyperledger Fabric and Hyperledger Composer.",
+                "homepage": null,
                 "id": 142599356,
                 "language": "JavaScript",
+                "license": "Unlicense",
                 "last_commit": "2018-11-19T22:53:18Z",
+                "open_issues": 0,
                 "owner": "ronaldl29",
                 "repo": "hyperledger-land-tracking",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "blockchain",
+                  "hyperledger",
+                  "hyperledger-composer",
+                  "hyperledger-fabric"
+                ]
               },
               "first_seen": "2026-08-28T17:28:20.846Z"
             }
@@ -128,12 +179,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a boilerplate that interacts between Hyperledger Fabric Peers and a front end.",
+                "homepage": "http://theledger.be",
                 "id": 118478659,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-01-23T20:38:16Z",
+                "open_issues": 31,
                 "owner": "wearetheledger",
                 "repo": "hyperledger-typescript-boilerplate",
-                "stars": 114
+                "stars": 114,
+                "topics": [
+                  "boilerplate",
+                  "fabric",
+                  "hyperledger-fabric",
+                  "hyperledger-typescript-boilerplate",
+                  "pusher",
+                  "starter-kit",
+                  "starter-project",
+                  "starter-template",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:28:20.846Z"
             }
@@ -151,12 +217,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Starter Application and Deployment Scripts for Hyperledger Fabric",
+                "homepage": null,
                 "id": 101753860,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-21T10:37:54Z",
+                "open_issues": 35,
                 "owner": "olegabu",
                 "repo": "fabric-starter",
-                "stars": 237
+                "stars": 237,
+                "topics": [
+                  "blockchain",
+                  "fabric",
+                  "hyperledger",
+                  "hyperledger-fabric"
+                ]
               },
               "first_seen": "2026-08-28T17:28:20.846Z"
             },
@@ -167,12 +243,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Boilerplate for starting your hyperledger fabric network",
+                "homepage": "https://theledger.be",
                 "id": 123575599,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2022-12-03T03:34:29Z",
+                "open_issues": 11,
                 "owner": "wearetheledger",
                 "repo": "fabric-network-boilerplate",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "boilerplate",
+                  "chaincode",
+                  "docker-compose",
+                  "fabric-network",
+                  "hyperledger-fabric",
+                  "nodejs",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:28:20.846Z"
             }
@@ -196,12 +285,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Utilities for writing and testing hyperledger Fabric nodejs chaincode",
+                "homepage": "https://theledger.be",
                 "id": 124232677,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2020-01-30T10:57:32Z",
+                "open_issues": 2,
                 "owner": "wearetheledger",
                 "repo": "fabric-node-chaincode-utils",
-                "stars": 74
+                "stars": 74,
+                "topics": [
+                  "chaincode",
+                  "hyperledger",
+                  "hyperledger-fabric",
+                  "hyperledger-fabric-network",
+                  "hyperledgerfabric",
+                  "node",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T17:28:20.846Z"
             },
@@ -212,12 +314,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hyperledger Fabric Network Kit",
+                "homepage": null,
                 "id": 139586004,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-13T06:50:35Z",
+                "open_issues": 3,
                 "owner": "s7techlab",
                 "repo": "hlf-sdk-go",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "blockchain",
+                  "golang",
+                  "hyperledger",
+                  "hyperledger-fabric",
+                  "hyperledger-fabric-sdk"
+                ]
               },
               "first_seen": "2026-08-28T17:28:20.846Z"
             },
@@ -228,12 +341,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Set of utility functions which can be used to interact with chaincode on a Hyperledger Fabric blockchain network.",
+                "homepage": null,
                 "id": 119555914,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-01-23T15:14:42Z",
+                "open_issues": 6,
                 "owner": "Kunstmaan",
                 "repo": "hyperledger-fabric-client-utils",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:28:20.846Z"
             }
@@ -251,12 +369,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Helper functions for generating configurations for more advanced Hyperledger Fabric Network setup",
+                "homepage": "https://labs.kunstmaan.be/",
                 "id": 116256160,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-06-19T15:52:48Z",
+                "open_issues": 9,
                 "owner": "Kunstmaan",
                 "repo": "hyperledger-fabric-network-setup",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:28:20.846Z"
             }
@@ -274,12 +397,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Source code moved to https://github.com/hyperledger-labs/cckit",
+                "homepage": "https://github.com/hyperledger-labs/cckit",
                 "id": 129696401,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-22T08:26:55Z",
+                "open_issues": 2,
                 "owner": "s7techlab",
                 "repo": "cckit",
-                "stars": 189
+                "stars": 189,
+                "topics": [
+                  "chaincode",
+                  "golang",
+                  "hyperledger-fabric",
+                  "smart-contracts",
+                  "unit-testing"
+                ]
               },
               "first_seen": "2026-08-28T17:28:20.846Z"
             },
@@ -290,12 +424,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Mock implementation of the fabric-shim stub for testing",
+                "homepage": "https://theledger.be",
                 "id": 124524446,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2020-11-25T00:30:49Z",
+                "open_issues": 12,
                 "owner": "wearetheledger",
                 "repo": "fabric-mock-stub",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "hyperledger",
+                  "hyperledger-fabric",
+                  "mock",
+                  "nodejs",
+                  "testing",
+                  "tools"
+                ]
               },
               "first_seen": "2026-08-28T17:28:20.846Z"
             },
@@ -306,12 +452,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo contains out of a setup which makes it easy to develop node.js chaincode in Hyperledger Fabric.",
+                "homepage": "https://labs.kunstmaan.be/",
                 "id": 110345026,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-05-21T15:26:19Z",
+                "open_issues": 13,
                 "owner": "Kunstmaan",
                 "repo": "hyperledger-fabric-chaincode-dev-setup",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:28:20.846Z"
             },
@@ -322,12 +473,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Utilities functions for Node.js chaincode on Hyperledger Fabric blockchain",
+                "homepage": "https://labs.kunstmaan.be/",
                 "id": 120633516,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-11-26T09:39:55Z",
+                "open_issues": 5,
                 "owner": "Kunstmaan",
                 "repo": "hyperledger-fabric-node-chaincode-utils",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:28:20.846Z"
             },
@@ -338,12 +494,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Typescript types for the hyperledger fabric-shim chaincode package",
+                "homepage": "https://theledger.be",
                 "id": 124244125,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2018-10-11T15:31:56Z",
+                "open_issues": 0,
                 "owner": "wearetheledger",
                 "repo": "fabric-shim-types",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "chaincode",
+                  "hyperledger-fabric",
+                  "typescript",
+                  "typings"
+                ]
               },
               "first_seen": "2026-08-28T17:28:20.846Z"
             },
@@ -354,12 +520,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Types for the fabric-shim-crypto package",
+                "homepage": null,
                 "id": 132717953,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2020-01-14T13:48:24Z",
+                "open_issues": 0,
                 "owner": "wearetheledger",
                 "repo": "fabric-shim-crypto-types",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:28:20.846Z"
             }
@@ -377,12 +548,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Blockchains. Destruction. Mayhem.",
+                "homepage": null,
                 "id": 140746749,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-07T22:42:38Z",
+                "open_issues": 5,
                 "owner": "tineola",
                 "repo": "tineola",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "blockchain",
+                  "enterprise",
+                  "hyperledger-fabric",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T17:28:20.846Z"
             }
@@ -406,12 +587,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Short tutorial to build a blockchain application in Go with Hyperledger Fabric",
+                "homepage": "https://chainhero.io/2018/06/tutorial-build-blockchain-app-v1-1-0/",
                 "id": 96316970,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2021-12-17T09:51:59Z",
+                "open_issues": 20,
                 "owner": "chainHero",
                 "repo": "heroes-service",
-                "stars": 273
+                "stars": 273,
+                "topics": [
+                  "blockchain",
+                  "golang",
+                  "hyperledger",
+                  "hyperledger-fabric",
+                  "tutorial"
+                ]
               },
               "first_seen": "2026-08-28T17:28:20.846Z"
             },
@@ -422,12 +614,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bootstrap Hyperledger Fabric the hard way on Vagrant.",
+                "homepage": null,
                 "id": 468280108,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-06-02T01:44:16Z",
+                "open_issues": 3,
                 "owner": "zufardhiyaulhaq",
                 "repo": "hyperledger-fabric-the-hard-way",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "blockchain",
+                  "distributed-ledger",
+                  "fabric",
+                  "hardway",
+                  "hyperledger",
+                  "hyperledger-fabric",
+                  "hyperledgerfabric",
+                  "smart-contracts",
+                  "tutorial"
+                ]
               },
               "first_seen": "2026-08-28T17:28:20.846Z"
             }
@@ -441,15 +648,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:28:20.846Z",
+    "last_updated": "2026-08-29T04:41:42.743Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of resources for creating applications with hyperledger fabric",
+      "homepage": null,
       "id": 124280712,
       "language": null,
+      "license": null,
       "last_commit": "2023-02-09T13:41:46Z",
+      "open_issues": 0,
       "owner": "wearetheledger",
       "repo": "awesome-hyperledger-fabric",
-      "stars": 487
+      "stars": 487,
+      "topics": [
+        "articles",
+        "awesome",
+        "awesome-list",
+        "collection",
+        "hyperledger",
+        "hyperledger-fabric",
+        "hyperledger-setup",
+        "hyperledgerfabric",
+        "tutorials"
+      ]
     },
     "original_repository_sha": "d5e7d6b3ed376556a0bfb8418baffeee0177eea1",
     "enhanced_repository": "enhansome/enhansome-hyperledger-fabric",
