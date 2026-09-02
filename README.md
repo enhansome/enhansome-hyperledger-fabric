@@ -27,7 +27,7 @@
 
 ### Samples
 
-* [Fabric samples](https://github.com/hyperledger/fabric-samples) ⭐ 3,016 | 🐛 77 | 🌐 Go | 📅 2026-08-28 - Official maintained samples created by the Hyperledger team and contributors.
+* [Fabric samples](https://github.com/hyperledger/fabric-samples) ⭐ 3,017 | 🐛 76 | 🌐 Go | 📅 2026-09-02 - Official maintained samples created by the Hyperledger team and contributors.
 * [Marbles](https://github.com/IBM-Blockchain/marbles) ⭐ 1,024 | 🐛 23 | 🌐 JavaScript | 📅 2019-03-28 - Marbles sample created by IBM visually demonstrating all the possibilities.
 * [Hyperledger composer samples](https://github.com/hyperledger/composer-sample-applications) ⚠️ Archived - Official samples for Hyperledger composer.
 * [Kuma token](https://github.com/Kunstmaan/hyperleder-fabric-kuma-token-example/) ⭐ 73 | 🐛 5 | 🌐 JavaScript | 📅 2019-04-29 - Example token implementation.
@@ -195,4 +195,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
