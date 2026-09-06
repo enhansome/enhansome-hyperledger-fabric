@@ -80,7 +80,7 @@
                 "open_issues": 23,
                 "owner": "IBM-Blockchain-Archive",
                 "repo": "marbles",
-                "stars": 1024,
+                "stars": 1023,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:28:20.846Z"
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T09:07:57.740Z",
+    "last_updated": "2026-09-06T09:29:23.476Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for creating applications with hyperledger fabric",
