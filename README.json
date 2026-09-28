@@ -57,7 +57,7 @@
                 "open_issues": 79,
                 "owner": "hyperledger",
                 "repo": "fabric-samples",
-                "stars": 3018,
+                "stars": 3020,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T10:35:42.774Z",
+    "last_updated": "2026-09-28T11:45:18.919Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for creating applications with hyperledger fabric",
