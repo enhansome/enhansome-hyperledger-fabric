@@ -27,8 +27,8 @@
 
 ### Samples
 
-* [Fabric samples](https://github.com/hyperledger/fabric-samples) ⭐ 3,020 | 🐛 80 | 🌐 Go | 📅 2026-09-18 - Official maintained samples created by the Hyperledger team and contributors.
-* [Marbles](https://github.com/IBM-Blockchain/marbles) ⭐ 1,023 | 🐛 23 | 🌐 JavaScript | 📅 2019-03-28 - Marbles sample created by IBM visually demonstrating all the possibilities.
+* [Fabric samples](https://github.com/hyperledger/fabric-samples) ⭐ 3,019 | 🐛 80 | 🌐 Go | 📅 2026-09-18 - Official maintained samples created by the Hyperledger team and contributors.
+* [Marbles](https://github.com/IBM-Blockchain/marbles) ⭐ 1,018 | 🐛 23 | 🌐 JavaScript | 📅 2019-03-28 - Marbles sample created by IBM visually demonstrating all the possibilities.
 * [Hyperledger composer samples](https://github.com/hyperledger/composer-sample-applications) ⚠️ Archived - Official samples for Hyperledger composer.
 * [Kuma token](https://github.com/Kunstmaan/hyperleder-fabric-kuma-token-example/) ⭐ 73 | 🐛 5 | 🌐 JavaScript | 📅 2019-04-29 - Example token implementation.
 * [Land Ownership Tracking](https://github.com/ronaldlong46/hyperledger-land-tracking) ⚠️ Archived - Sample Hyperledger Composer application that allows government agencies to track ownership and transactions.
@@ -45,7 +45,7 @@
 
 ### Network
 
-* [Fabric starter](https://github.com/olegabu/fabric-starter) ⭐ 237 | 🐛 35 | 🌐 Shell | 📅 2022-12-21 - Starter Application and Deployment Scripts.
+* [Fabric starter](https://github.com/olegabu/fabric-starter) ⭐ 236 | 🐛 35 | 🌐 Shell | 📅 2022-12-21 - Starter Application and Deployment Scripts.
 * [Hyperledger Fabric network boilerplate](https://github.com/wearetheledger/fabric-network-boilerplate) ⭐ 67 | 🐛 11 | 🌐 Shell | 📅 2022-12-03 - Network boilerplate for easily setting up a new network.
 
 ## Tools
@@ -106,7 +106,7 @@
 
 ### Tutorials
 
-* [Hyperledger Fabric SDK Go: How to build your first app?](https://github.com/chainHero/heroes-service) ⭐ 274 | 🐛 20 | 🌐 Go | 📅 2021-12-17 - Chainhero tutorial on how to build applications on Hyperledger Fabric v1.0.5.
+* [Hyperledger Fabric SDK Go: How to build your first app?](https://github.com/chainHero/heroes-service) ⭐ 273 | 🐛 20 | 🌐 Go | 📅 2021-12-17 - Chainhero tutorial on how to build applications on Hyperledger Fabric v1.0.5.
 * [Hyperledger Fabric The Hard Way](https://github.com/zufardhiyaulhaq/hyperledger-fabric-the-hard-way) ⭐ 21 | 🐛 3 | 🌐 Go | 📅 2023-06-02 - Bootstrap Hyperledger Fabric the hard way without script following Production Network approach.
 * [Hyperledger Development within 21 days](https://medium.com/@grsind19/hyperledger-development-with-in-21-days-day-1-ed3c5df88113)
 * [Hyperledger Fabric dev env setup Kubernetes](https://medium.com/kokster/set-up-a-hyperledger-fabric-development-environment-on-kubernetes-6428c63e018b)
@@ -195,4 +195,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._

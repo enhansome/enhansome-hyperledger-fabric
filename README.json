@@ -57,7 +57,7 @@
                 "open_issues": 80,
                 "owner": "hyperledger",
                 "repo": "fabric-samples",
-                "stars": 3020,
+                "stars": 3019,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -80,7 +80,7 @@
                 "open_issues": 23,
                 "owner": "IBM-Blockchain-Archive",
                 "repo": "marbles",
-                "stars": 1023,
+                "stars": 1018,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:28:20.846Z"
@@ -226,7 +226,7 @@
                 "open_issues": 35,
                 "owner": "olegabu",
                 "repo": "fabric-starter",
-                "stars": 237,
+                "stars": 236,
                 "topics": [
                   "blockchain",
                   "fabric",
@@ -596,7 +596,7 @@
                 "open_issues": 20,
                 "owner": "chainHero",
                 "repo": "heroes-service",
-                "stars": 274,
+                "stars": 273,
                 "topics": [
                   "blockchain",
                   "golang",
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T12:04:10.292Z",
+    "last_updated": "2026-10-07T11:49:43.544Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for creating applications with hyperledger fabric",
