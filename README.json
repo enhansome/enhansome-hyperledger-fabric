@@ -53,8 +53,8 @@
                 "id": 94831761,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T09:27:40Z",
-                "open_issues": 80,
+                "last_commit": "2026-10-16T03:43:21Z",
+                "open_issues": 81,
                 "owner": "hyperledger",
                 "repo": "fabric-samples",
                 "stars": 3021,
@@ -101,7 +101,7 @@
                 "open_issues": 16,
                 "owner": "hyperledger-archives",
                 "repo": "composer-sample-applications",
-                "stars": 104,
+                "stars": 105,
                 "topics": [
                   "blockchain",
                   "composer",
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T10:00:23.890Z",
+    "last_updated": "2026-10-16T09:53:58.291Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for creating applications with hyperledger fabric",
