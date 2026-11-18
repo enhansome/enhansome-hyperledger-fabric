@@ -54,7 +54,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-16T03:43:21Z",
-                "open_issues": 83,
+                "open_issues": 84,
                 "owner": "hyperledger",
                 "repo": "fabric-samples",
                 "stars": 3021,
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T14:33:08.161Z",
+    "last_updated": "2026-11-18T14:09:44.630Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for creating applications with hyperledger fabric",
